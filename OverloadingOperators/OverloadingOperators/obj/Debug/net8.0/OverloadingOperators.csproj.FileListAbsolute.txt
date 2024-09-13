@@ -1,0 +1,14 @@
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\bin\Debug\net8.0\OverloadingOperators.exe
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\bin\Debug\net8.0\OverloadingOperators.deps.json
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\bin\Debug\net8.0\OverloadingOperators.runtimeconfig.json
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\bin\Debug\net8.0\OverloadingOperators.dll
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\bin\Debug\net8.0\OverloadingOperators.pdb
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\OverloadingOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\OverloadingOperators.AssemblyInfoInputs.cache
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\OverloadingOperators.AssemblyInfo.cs
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\OverloadingOperators.csproj.CoreCompileInputs.cache
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\OverloadingOperators.dll
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\refint\OverloadingOperators.dll
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\OverloadingOperators.pdb
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\OverloadingOperators.genruntimeconfig.cache
+C:\Users\duerh\Desktop\EB Lessons\OverloadingOperators\OverloadingOperators\obj\Debug\net8.0\ref\OverloadingOperators.dll
